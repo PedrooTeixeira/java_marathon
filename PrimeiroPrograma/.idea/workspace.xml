@@ -16,14 +16,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1P8519J2HruAVCR8ljjazibsAC3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
@@ -47,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CalculadoraTeste">
+  <component name="RunManager" selected="Application.EstudanteTeste">
     <configuration name="CalculadoraTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="introducao_metodos.teste.CalculadoraTeste" />
       <module name="PrimeiroPrograma" />
@@ -61,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introducao_classes.teste.CarroTeste" />
+    <configuration name="EstudanteTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="introducao_metodos.teste.EstudanteTeste" />
       <module name="PrimeiroPrograma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introducao_classes.teste.*" />
+          <option name="PATTERN" value="introducao_metodos.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EstudanteTeste" />
         <item itemvalue="Application.CalculadoraTeste" />
         <item itemvalue="Application.ProfessorTeste (1)" />
         <item itemvalue="Application.ParametrosTeste" />
         <item itemvalue="Application.ProfessorTeste" />
-        <item itemvalue="Application.CarroTeste" />
       </list>
     </recent_temporary>
   </component>
@@ -139,11 +142,22 @@
       <workItem from="1565616418682" duration="5273000" />
       <workItem from="1565870152796" duration="16917000" />
       <workItem from="1565961157589" duration="4865000" />
-      <workItem from="1566097979312" duration="685000" />
+      <workItem from="1566097979312" duration="4639000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
